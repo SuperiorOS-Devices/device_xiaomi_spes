@@ -285,6 +285,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.1.vendor
 
+# Libgui
+PRODUCT_PACKAGES += \
+    libgui_vendor
+
 # Lights
 PRODUCT_PACKAGES += \
     android.hardware.lights-service.spes
