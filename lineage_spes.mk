@@ -15,7 +15,7 @@ $(call inherit-product, device/xiaomi/spes/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Camera
-$(call inherit-product-if-exists, vendor/miuicamera/config.mk)
+# $(call inherit-product-if-exists, vendor/miuicamera/config.mk)
 
 # Product Specifics
 PRODUCT_NAME := lineage_spes
