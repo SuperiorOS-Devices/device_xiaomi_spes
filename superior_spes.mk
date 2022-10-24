@@ -14,6 +14,9 @@ $(call inherit-product, device/xiaomi/spes/device.mk)
 # Inherit some common SuperiorOS stuff.
 $(call inherit-product, vendor/superior/config/common.mk)
 
+# Bootanimation
+TARGET_BOOT_ANIMATION_RES := 1080
+
 # Camera
 # $(call inherit-product-if-exists, vendor/miuicamera/config.mk)
 
