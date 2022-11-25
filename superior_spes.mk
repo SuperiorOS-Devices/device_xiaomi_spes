@@ -20,6 +20,9 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Camera
 # $(call inherit-product-if-exists, vendor/miuicamera/config.mk)
 
+# SuperiorOS
+SUPERIOR_OFFICIAL := true
+
 # Product Specifics
 PRODUCT_NAME := superior_spes
 PRODUCT_DEVICE := spes
