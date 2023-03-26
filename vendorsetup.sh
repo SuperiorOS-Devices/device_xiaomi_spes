@@ -8,3 +8,4 @@ sleep 1
 
 # Remove pixel headers to avoid conflicts
 rm -rf hardware/google/pixel/kernel_headers/Android.bp
+rm -rf hardware/lineage/compat
