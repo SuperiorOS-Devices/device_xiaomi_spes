@@ -1,4 +1,5 @@
-[{
+[
+        {
 		"repository": "vendor_xiaomi_spes",
 		"target_path": "vendor/xiaomi/spes",
 		"branch": "thirteen",
@@ -7,12 +8,6 @@
 	{
 		"repository": "kernel_xiaomi_spes",
 		"target_path": "kernel/xiaomi/spes",
-		"branch": "thirteen",
-		"remote": "SuperiorOS-Devices"
-	},
-	{
-		"repository": "vendor_xiaomi_spes",
-		"target_path": "vendor/xiaomi/spes",
 		"branch": "thirteen",
 		"remote": "SuperiorOS-Devices"
 	}
